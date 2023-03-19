@@ -1,0 +1,9 @@
+1. users enter page
+2. Write a username into the form input
+3. hitting submit button > form is submitted and username box dissapears
+4. Now waiting inside a lobby, usernames are written every second based on current users
+5. Game starts when enough people ready up, it will count the amount of readys and if it is more or equal to the amount of players
+6. Everytime we hit the submit button it will send the username, score, wordSubmission.
+8. Clear gamedata.json
+9. Write gameData.json to contain username, score, word submission
+7. We will populate the screen with data from gameData.json

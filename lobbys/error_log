@@ -1,0 +1,246 @@
+[29-Dec-2022 16:39:22 America/Chicago] PHP Fatal error:  Uncaught Error: Undefined constant "console" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 10
+[29-Dec-2022 16:39:28 America/Chicago] PHP Fatal error:  Uncaught Error: Undefined constant "console" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 10
+[29-Dec-2022 16:40:59 America/Chicago] PHP Fatal error:  Uncaught Error: Undefined constant "console" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php:10
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 10
+[29-Dec-2022 16:42:23 America/Chicago] PHP Fatal error:  Uncaught Error: Undefined constant "console" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 11
+[29-Dec-2022 16:42:54 America/Chicago] PHP Fatal error:  Uncaught Error: Undefined constant "console" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 11
+[29-Dec-2022 16:43:13 America/Chicago] PHP Fatal error:  Uncaught Error: Undefined constant "console" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 11
+[29-Dec-2022 16:44:11 America/Chicago] PHP Fatal error:  Uncaught Error: Undefined constant "console" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 11
+[29-Dec-2022 16:47:23 America/Chicago] PHP Fatal error:  Uncaught Error: Undefined constant "console" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 11
+[29-Dec-2022 16:48:52 America/Chicago] PHP Warning:  file_put_contents(/public_html/projects/defineSortVersion/lobbys/users.txt): Failed to open stream: No such file or directory in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 11
+[29-Dec-2022 16:51:25 America/Chicago] PHP Warning:  file_put_contents(/public_html/projects/defineSortVersion/lobbys/users.txt): Failed to open stream: No such file or directory in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 11
+[29-Dec-2022 16:52:20 America/Chicago] PHP Warning:  file_put_contents(/public_html/projects/defineSortVersion/lobbys/users.txt): Failed to open stream: No such file or directory in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 11
+[29-Dec-2022 16:56:58 America/Chicago] PHP Warning:  file_put_contents(/public_html/projects/defineSortVersion/lobbys/users.txt): Failed to open stream: No such file or directory in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 12
+[29-Dec-2022 22:41:41 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 6
+[29-Dec-2022 22:42:14 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 5
+[29-Dec-2022 22:55:25 America/Chicago] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 3
+[29-Dec-2022 22:59:52 America/Chicago] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 3
+[29-Dec-2022 23:00:59 America/Chicago] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 3
+[29-Dec-2022 23:01:03 America/Chicago] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 3
+[29-Dec-2022 23:02:11 America/Chicago] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 3
+[29-Dec-2022 23:03:44 America/Chicago] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 3
+[29-Dec-2022 23:04:26 America/Chicago] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 3
+[29-Dec-2022 23:04:28 America/Chicago] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 3
+[29-Dec-2022 23:05:48 America/Chicago] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 3
+[29-Dec-2022 23:07:17 America/Chicago] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 3
+[29-Dec-2022 23:07:53 America/Chicago] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 3
+[29-Dec-2022 23:07:54 America/Chicago] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 3
+[29-Dec-2022 23:08:18 America/Chicago] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 3
+[29-Dec-2022 23:09:02 America/Chicago] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 3
+[29-Dec-2022 23:10:39 America/Chicago] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 3
+[29-Dec-2022 23:10:47 America/Chicago] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php:3
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 3
+[29-Dec-2022 23:12:01 America/Chicago] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php:5
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 5
+[29-Dec-2022 23:12:05 America/Chicago] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php:5
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 5
+[29-Dec-2022 23:14:36 America/Chicago] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php:5
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 5
+[29-Dec-2022 23:15:56 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 6
+[29-Dec-2022 23:15:56 America/Chicago] PHP Warning:  Undefined variable $username in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 7
+[29-Dec-2022 23:15:56 America/Chicago] PHP Warning:  Undefined array key "" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 7
+[29-Dec-2022 23:15:56 America/Chicago] PHP Warning:  Undefined array key "JuicyThrubb" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 8
+[29-Dec-2022 23:15:56 America/Chicago] PHP Warning:  Undefined array key "Email" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 9
+[29-Dec-2022 23:15:56 America/Chicago] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 11
+[29-Dec-2022 23:16:23 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 6
+[29-Dec-2022 23:16:23 America/Chicago] PHP Warning:  Undefined variable $username in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 7
+[29-Dec-2022 23:16:23 America/Chicago] PHP Warning:  Undefined array key "" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 7
+[29-Dec-2022 23:16:23 America/Chicago] PHP Warning:  Undefined array key "JuicyThrubb" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 8
+[29-Dec-2022 23:16:23 America/Chicago] PHP Warning:  Undefined array key "Email" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 9
+[29-Dec-2022 23:16:23 America/Chicago] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 11
+[29-Dec-2022 23:16:25 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 6
+[29-Dec-2022 23:16:25 America/Chicago] PHP Warning:  Undefined variable $username in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 7
+[29-Dec-2022 23:16:25 America/Chicago] PHP Warning:  Undefined array key "" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 7
+[29-Dec-2022 23:16:25 America/Chicago] PHP Warning:  Undefined array key "JuicyThrubb" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 8
+[29-Dec-2022 23:16:25 America/Chicago] PHP Warning:  Undefined array key "Email" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 9
+[29-Dec-2022 23:16:25 America/Chicago] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 11
+[29-Dec-2022 23:19:19 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 10
+[29-Dec-2022 23:19:19 America/Chicago] PHP Warning:  Undefined array key "gamer" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 11
+[29-Dec-2022 23:19:19 America/Chicago] PHP Warning:  Undefined array key "JuicyThrubb" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 12
+[29-Dec-2022 23:19:19 America/Chicago] PHP Warning:  Undefined array key "Email" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 13
+[29-Dec-2022 23:19:44 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 11
+[29-Dec-2022 23:19:44 America/Chicago] PHP Warning:  Undefined array key "gamer" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 12
+[29-Dec-2022 23:19:44 America/Chicago] PHP Warning:  Undefined array key "JuicyThrubb" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 13
+[29-Dec-2022 23:19:44 America/Chicago] PHP Warning:  Undefined array key "Email" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 14
+[29-Dec-2022 23:20:00 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 12
+[29-Dec-2022 23:20:00 America/Chicago] PHP Warning:  Undefined array key "gamer" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 13
+[29-Dec-2022 23:20:00 America/Chicago] PHP Warning:  Undefined array key "JuicyThrubb" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 14
+[29-Dec-2022 23:20:00 America/Chicago] PHP Warning:  Undefined array key "Email" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 15
+[29-Dec-2022 23:23:33 America/Chicago] PHP Warning:  Undefined array key "user" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 13
+[29-Dec-2022 23:26:20 America/Chicago] PHP Warning:  Undefined array key "JuicyThrubb" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 12
+[29-Dec-2022 23:26:30 America/Chicago] PHP Warning:  Undefined array key "sgame" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 12
+[29-Dec-2022 23:34:19 America/Chicago] PHP Warning:  Array to string conversion in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 14
+[29-Dec-2022 23:34:19 America/Chicago] PHP Warning:  Undefined array key "Username" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 15
+[29-Dec-2022 23:34:42 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, string given in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 13
+[29-Dec-2022 23:41:17 America/Chicago] PHP Warning:  Undefined variable $objitems in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 13
+[29-Dec-2022 23:41:17 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 13
+[29-Dec-2022 23:44:36 America/Chicago] PHP Warning:  Undefined variable $objitems in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 13
+[29-Dec-2022 23:44:36 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 13
+[30-Dec-2022 00:09:37 America/Chicago] PHP Warning:  Undefined array key "email" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 5
+[30-Dec-2022 00:09:37 America/Chicago] PHP Warning:  Undefined array key "userName" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 6
+[30-Dec-2022 00:09:37 America/Chicago] PHP Warning:  Undefined array key "passWord" in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 7
+[30-Dec-2022 00:13:01 America/Chicago] PHP Warning:  Undefined variable $objitems in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 14
+[30-Dec-2022 00:13:21 America/Chicago] PHP Warning:  Undefined variable $objitems in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 12
+[30-Dec-2022 00:13:54 America/Chicago] PHP Warning:  Undefined variable $objitems in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 13
+[30-Dec-2022 00:14:10 America/Chicago] PHP Warning:  Undefined variable $objitems in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 14
+[30-Dec-2022 00:14:56 America/Chicago] PHP Warning:  Undefined variable $objitems in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 15
+[30-Dec-2022 00:16:12 America/Chicago] PHP Warning:  Undefined variable $objitems in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 16
+[30-Dec-2022 00:16:33 America/Chicago] PHP Warning:  Undefined variable $objitems in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 16
+[30-Dec-2022 00:19:47 America/Chicago] PHP Warning:  Undefined variable $data in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 10
+[30-Dec-2022 00:19:47 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 10
+[30-Dec-2022 00:21:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function checkUser() in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 22
+[30-Dec-2022 00:21:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function checkUser() in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php:22
+Stack trace:
+#0 {main}
+  thrown in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 22
+[30-Dec-2022 00:22:32 America/Chicago] PHP Warning:  Undefined variable $data in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 12
+[30-Dec-2022 00:22:32 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 12
+[30-Dec-2022 00:22:32 America/Chicago] PHP Warning:  Undefined variable $email in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 28
+[30-Dec-2022 00:22:32 America/Chicago] PHP Warning:  Undefined variable $id in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 29
+[30-Dec-2022 00:22:32 America/Chicago] PHP Warning:  Undefined variable $userName in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 30
+[30-Dec-2022 00:22:32 America/Chicago] PHP Warning:  Undefined variable $passWord in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 31
+[30-Dec-2022 00:22:32 America/Chicago] PHP Warning:  Undefined variable $todaysDate in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 32
+[30-Dec-2022 00:22:32 America/Chicago] PHP Warning:  Undefined variable $live in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 33
+[30-Dec-2022 00:24:47 America/Chicago] PHP Warning:  Undefined variable $data in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 12
+[30-Dec-2022 00:24:47 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 12
+[30-Dec-2022 00:24:47 America/Chicago] PHP Warning:  Undefined variable $email in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 28
+[30-Dec-2022 00:24:47 America/Chicago] PHP Warning:  Undefined variable $id in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 29
+[30-Dec-2022 00:24:47 America/Chicago] PHP Warning:  Undefined variable $userName in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 30
+[30-Dec-2022 00:24:47 America/Chicago] PHP Warning:  Undefined variable $passWord in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 31
+[30-Dec-2022 00:24:47 America/Chicago] PHP Warning:  Undefined variable $todaysDate in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 32
+[30-Dec-2022 00:24:47 America/Chicago] PHP Warning:  Undefined variable $live in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 33
+[30-Dec-2022 00:24:51 America/Chicago] PHP Warning:  Undefined variable $data in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 12
+[30-Dec-2022 00:24:51 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 12
+[30-Dec-2022 00:24:51 America/Chicago] PHP Warning:  Undefined variable $email in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 28
+[30-Dec-2022 00:24:51 America/Chicago] PHP Warning:  Undefined variable $id in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 29
+[30-Dec-2022 00:24:51 America/Chicago] PHP Warning:  Undefined variable $userName in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 30
+[30-Dec-2022 00:24:51 America/Chicago] PHP Warning:  Undefined variable $passWord in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 31
+[30-Dec-2022 00:24:51 America/Chicago] PHP Warning:  Undefined variable $todaysDate in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 32
+[30-Dec-2022 00:24:51 America/Chicago] PHP Warning:  Undefined variable $live in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 33
+[30-Dec-2022 00:26:15 America/Chicago] PHP Warning:  Undefined variable $data in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 27
+[30-Dec-2022 00:26:15 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 27
+[30-Dec-2022 00:27:19 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 29
+[30-Dec-2022 00:27:22 America/Chicago] PHP Warning:  Undefined variable $email in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 30
+[30-Dec-2022 00:27:25 America/Chicago] PHP Warning:  Undefined variable $email in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 30
+[30-Dec-2022 00:27:25 America/Chicago] PHP Warning:  Undefined variable $email in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 30
+[30-Dec-2022 00:30:18 America/Chicago] PHP Warning:  Undefined variable $email in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 31
+[30-Dec-2022 00:30:18 America/Chicago] PHP Warning:  Undefined variable $email in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 31
+[30-Dec-2022 00:30:18 America/Chicago] PHP Warning:  Undefined variable $email in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 31
+[30-Dec-2022 00:30:45 America/Chicago] PHP Warning:  Undefined variable $email in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 31
+[30-Dec-2022 00:30:45 America/Chicago] PHP Warning:  Undefined variable $email in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 31
+[30-Dec-2022 00:30:45 America/Chicago] PHP Warning:  Undefined variable $email in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 31
+[30-Dec-2022 00:30:45 America/Chicago] PHP Warning:  Undefined variable $email in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 31
+[30-Dec-2022 00:31:39 America/Chicago] PHP Warning:  Undefined variable $email in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 31
+[30-Dec-2022 00:31:39 America/Chicago] PHP Warning:  Undefined variable $email in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 31
+[30-Dec-2022 00:31:39 America/Chicago] PHP Warning:  Undefined variable $email in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 31
+[30-Dec-2022 00:31:39 America/Chicago] PHP Warning:  Undefined variable $email in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 31
+[30-Dec-2022 00:31:39 America/Chicago] PHP Warning:  Undefined variable $email in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 31
+[30-Dec-2022 00:31:58 America/Chicago] PHP Warning:  Undefined variable $email in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 31
+[30-Dec-2022 00:31:58 America/Chicago] PHP Warning:  Undefined variable $email in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 31
+[30-Dec-2022 00:31:58 America/Chicago] PHP Warning:  Undefined variable $email in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 31
+[30-Dec-2022 00:31:58 America/Chicago] PHP Warning:  Undefined variable $email in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 31
+[30-Dec-2022 00:31:58 America/Chicago] PHP Warning:  Undefined variable $email in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 31
+[30-Dec-2022 00:31:58 America/Chicago] PHP Warning:  Undefined variable $email in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 31
+[30-Dec-2022 00:32:23 America/Chicago] PHP Warning:  Undefined variable $data in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 10
+[30-Dec-2022 00:32:23 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 10
+[30-Dec-2022 00:32:40 America/Chicago] PHP Warning:  Undefined variable $data in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 10
+[30-Dec-2022 00:32:40 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 10
+[30-Dec-2022 00:33:03 America/Chicago] PHP Warning:  Undefined variable $data in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 10
+[30-Dec-2022 00:33:03 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 10
+[30-Dec-2022 00:34:23 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 9
+[30-Dec-2022 00:35:38 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 9
+[30-Dec-2022 00:35:51 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 30
+[30-Dec-2022 00:35:56 America/Chicago] PHP Warning:  Undefined variable $username in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 11
+[30-Dec-2022 00:37:37 America/Chicago] PHP Warning:  Undefined variable $username in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 12
+[30-Dec-2022 00:37:42 America/Chicago] PHP Warning:  Undefined variable $username in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 12
+[30-Dec-2022 00:38:17 America/Chicago] PHP Warning:  Undefined variable $email in /home4/willeans/public_html/projects/defineSortVersion/lobbys/processUser.php on line 31
+[30-Dec-2022 00:38:21 America/Chicago] PHP Warning:  Undefined variable $username in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 12
+[30-Dec-2022 00:38:21 America/Chicago] PHP Warning:  Undefined variable $username in /home4/willeans/public_html/projects/defineSortVersion/lobbys/userCheck.php on line 12
